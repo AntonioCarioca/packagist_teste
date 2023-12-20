@@ -13,7 +13,6 @@
             "email": "a.silva@mailfence.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": "^7.0|^8.0"
     }
