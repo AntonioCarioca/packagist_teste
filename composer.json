@@ -13,5 +13,6 @@
             "email": "a.silva@mailfence.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
