@@ -1,0 +1,19 @@
+{
+    "name": "teste/teste",
+    "description": "Testando composer packagist",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Teste\\Teste\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Silva",
+            "email": "a.silva@mailfence.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
