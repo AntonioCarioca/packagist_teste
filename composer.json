@@ -1,7 +1,6 @@
 {
     "name": "teste/teste",
     "description": "Testando composer packagist",
-    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -14,6 +13,5 @@
             "email": "a.silva@mailfence.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
